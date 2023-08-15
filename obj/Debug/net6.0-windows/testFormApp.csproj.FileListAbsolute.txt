@@ -1,0 +1,17 @@
+C:\Users\smiya\Desktop\testProject\testFormApp\bin\Debug\net6.0-windows\testFormApp.exe
+C:\Users\smiya\Desktop\testProject\testFormApp\bin\Debug\net6.0-windows\testFormApp.deps.json
+C:\Users\smiya\Desktop\testProject\testFormApp\bin\Debug\net6.0-windows\testFormApp.runtimeconfig.json
+C:\Users\smiya\Desktop\testProject\testFormApp\bin\Debug\net6.0-windows\testFormApp.dll
+C:\Users\smiya\Desktop\testProject\testFormApp\bin\Debug\net6.0-windows\testFormApp.pdb
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.csproj.AssemblyReference.cache
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.Form1.resources
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.csproj.GenerateResource.cache
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.AssemblyInfoInputs.cache
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.AssemblyInfo.cs
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.csproj.CoreCompileInputs.cache
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.dll
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\refint\testFormApp.dll
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.pdb
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\testFormApp.genruntimeconfig.cache
+C:\Users\smiya\Desktop\testProject\testFormApp\obj\Debug\net6.0-windows\ref\testFormApp.dll
